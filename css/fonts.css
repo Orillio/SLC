@@ -1,0 +1,30 @@
+@font-face{
+    font-weight: 500;
+    src: url(fonts/Roboto-Medium.woff) format('woff');
+    font-family: 'Roboto';
+}
+@font-face{
+    font-weight: 600;
+    src: url(fonts/Roboto-Bold.woff) format('woff');
+    font-family: 'Roboto';
+}
+@font-face{
+    font-weight: 400;
+    src: url(fonts/TTNorms-Regular.woff) format('woff');
+    font-family: 'TTNorms';
+}
+@font-face{
+    font-weight: 500;
+    src: url(fonts/TTNorms-Medium.woff) format('woff');
+    font-family: 'TTNorms';
+}
+@font-face{
+    font-weight: 700;
+    src: url(fonts/TTNorms-Bold.woff) format('woff');
+    font-family: 'TTNorms';
+}
+@font-face{
+    font-weight: 900;
+    src: url(fonts/TTNorms-Black.woff) format('woff');
+    font-family: 'TTNorms';
+}
