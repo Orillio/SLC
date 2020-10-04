@@ -13,7 +13,7 @@ window.addEventListener('load', function () {
     burger.addEventListener('click', () =>
     {
         if(burgerActive){
-            document.body.style.overflow = 'overlay';
+            document.body.style.overflow = 'initial';
             burger.classList.remove('is-active');
             menu.classList.remove('menu-active');
             burgerActive = false;
